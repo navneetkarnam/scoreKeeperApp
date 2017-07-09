@@ -1,5 +1,5 @@
 body{
-	background-color: #465359;
+	background-color:#ce884a;
 	background-position: fixed;
 }
 
@@ -47,4 +47,23 @@ input{
 
 .loser{
 	color: red;
+}
+
+#copyrights{
+	margin-top: 2em;
+  text-align: center;
+  font-weight: bold;
+  font-size: 0.9em;
+  color: black;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.01),
+           0px 8px 13px rgba(0,0,0,0.02),
+           0px 18px 23px rgba(0,0,0,0.03);
+}
+
+.btn1{
+	margin-top: 1em;
+}
+
+.btn3{
+	margin-top: 1em;
 }
