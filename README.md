@@ -14,4 +14,4 @@ v2.0
 
 * * *
 
-![screenshot2](SimpleScoreKeeperApp/image/score2.png)
+![screenshot2](SimpleScoreKeeperApp/image/score3.png)
